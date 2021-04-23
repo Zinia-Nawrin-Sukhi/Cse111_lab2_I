@@ -1,0 +1,21 @@
+import java.util.Scanner;
+public class Task5
+{
+  public static void main(String[]args)
+  {
+    Scanner sc=new Scanner(System.in);
+  
+      System.out.println("please enter voltage")
+  Double E=sc.nextInt();
+  System.out.println("please enter resistance ")
+  Double R=sc.nextInt()
+    System.out.println("please enter inductance")
+  Double L=sc.nextInt()
+    System.out.println("please enter capacitance ")
+  Double C=sc.nextInt()
+    System.out.println("please enter frequency")
+  Double F=sc.nextInt()
+   double I=E/Math.sqrt(R*R+((2*3.1416*F*L)-(1/(2*3.1416*F*C)*(2*3.1416*F*L)-(1/(2*3.1416*F*C))))
+    System.out.println(I)                      
+  }
+}

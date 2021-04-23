@@ -1,0 +1,169 @@
+20 Jan 2019 13:39:34 GMT: Log 'EclipseCompiler.txt' opened: 20 Jan 2019 13:39:34 GMT with name E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\EclipseCompiler.txt
+20 Jan 2019 13:49:01 GMT: diagnostics = javax.tools.DiagnosticCollector@109a7f7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d27446
+fileObjects = [E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java]
+20 Jan 2019 13:49:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f4b814' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jan 2019 13:49:02 GMT: Compiler call returned
+20 Jan 2019 13:49:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16990e9
+20 Jan 2019 13:49:02 GMT:  Kind = ERROR
+20 Jan 2019 13:49:02 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 3 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+20 Jan 2019 13:49:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@174285e
+20 Jan 2019 13:49:02 GMT:  Kind = ERROR
+20 Jan 2019 13:49:02 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 7 ColNo = 21 Msg = 'Syntax error on token "{", [ expected'
+20 Jan 2019 13:49:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4518c1
+20 Jan 2019 13:49:02 GMT:  Kind = ERROR
+20 Jan 2019 13:49:02 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 7 ColNo = 24 Msg = 'Syntax error, insert "ArrayInitializer" to complete ArrayCreationWithArrayInitializer'
+20 Jan 2019 13:49:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1509cf9
+20 Jan 2019 13:49:02 GMT:  Kind = ERROR
+20 Jan 2019 13:49:02 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 7 ColNo = 24 Msg = 'Syntax error, insert ";" to complete LocalVariableDeclarationStatement'
+20 Jan 2019 13:49:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b85011
+20 Jan 2019 13:49:02 GMT:  Kind = ERROR
+20 Jan 2019 13:49:02 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 22 ColNo = 5 Msg = 'Syntax error, insert "}" to complete MethodBody'
+20 Jan 2019 13:49:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1aad00
+20 Jan 2019 13:49:02 GMT:  Kind = WARNING
+20 Jan 2019 13:49:02 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:49:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5b3fd2
+20 Jan 2019 13:49:02 GMT:  Kind = WARNING
+20 Jan 2019 13:49:02 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:49:27 GMT: diagnostics = javax.tools.DiagnosticCollector@4b22ff
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9ad6f
+fileObjects = [E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java]
+20 Jan 2019 13:49:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@56e35e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jan 2019 13:49:27 GMT: Compiler call returned
+20 Jan 2019 13:49:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f670e2
+20 Jan 2019 13:49:27 GMT:  Kind = ERROR
+20 Jan 2019 13:49:27 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 24 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+20 Jan 2019 13:49:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4fb9bd
+20 Jan 2019 13:49:27 GMT:  Kind = WARNING
+20 Jan 2019 13:49:27 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:49:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@32748
+20 Jan 2019 13:49:27 GMT:  Kind = WARNING
+20 Jan 2019 13:49:27 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:49:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c73ede
+20 Jan 2019 13:49:27 GMT:  Kind = ERROR
+20 Jan 2019 13:49:27 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 7 ColNo = 21 Msg = 'Syntax error on token "{", [ expected'
+20 Jan 2019 13:49:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b83ba4
+20 Jan 2019 13:49:27 GMT:  Kind = ERROR
+20 Jan 2019 13:49:27 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 7 ColNo = 24 Msg = 'Syntax error, insert "ArrayInitializer" to complete ArrayCreationWithArrayInitializer'
+20 Jan 2019 13:49:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ffd7f
+20 Jan 2019 13:49:27 GMT:  Kind = ERROR
+20 Jan 2019 13:49:27 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 7 ColNo = 24 Msg = 'Syntax error, insert ";" to complete LocalVariableDeclarationStatement'
+20 Jan 2019 13:49:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@181bedf
+20 Jan 2019 13:49:27 GMT:  Kind = ERROR
+20 Jan 2019 13:49:27 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 23 ColNo = 5 Msg = 'Syntax error on token "}", delete this token'
+20 Jan 2019 13:49:35 GMT: diagnostics = javax.tools.DiagnosticCollector@12fdec5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5163ca
+fileObjects = [E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java]
+20 Jan 2019 13:49:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12b12f5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jan 2019 13:49:35 GMT: Compiler call returned
+20 Jan 2019 13:49:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d7caa6
+20 Jan 2019 13:49:35 GMT:  Kind = WARNING
+20 Jan 2019 13:49:35 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:49:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1801451
+20 Jan 2019 13:49:35 GMT:  Kind = WARNING
+20 Jan 2019 13:49:35 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:49:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1641456
+20 Jan 2019 13:49:35 GMT:  Kind = ERROR
+20 Jan 2019 13:49:35 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 7 ColNo = 24 Msg = 'Syntax error, insert "ArrayInitializer" to complete ArrayCreationWithArrayInitializer'
+20 Jan 2019 13:49:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e9bb5
+20 Jan 2019 13:49:35 GMT:  Kind = ERROR
+20 Jan 2019 13:49:35 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 7 ColNo = 24 Msg = 'Syntax error, insert ";" to complete LocalVariableDeclarationStatement'
+20 Jan 2019 13:50:14 GMT: diagnostics = javax.tools.DiagnosticCollector@13026ea
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@384e3
+fileObjects = [E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java]
+20 Jan 2019 13:50:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15b4b81' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jan 2019 13:50:14 GMT: Compiler call returned
+20 Jan 2019 13:50:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a0451b
+20 Jan 2019 13:50:14 GMT:  Kind = WARNING
+20 Jan 2019 13:50:14 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:50:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c95ac
+20 Jan 2019 13:50:14 GMT:  Kind = WARNING
+20 Jan 2019 13:50:14 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:50:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11c088d
+20 Jan 2019 13:50:14 GMT:  Kind = ERROR
+20 Jan 2019 13:50:14 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 7 ColNo = 23 Msg = 'Syntax error, insert "ArrayInitializer" to complete ArrayCreationWithArrayInitializer'
+20 Jan 2019 13:50:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fcf38e
+20 Jan 2019 13:50:14 GMT:  Kind = ERROR
+20 Jan 2019 13:50:14 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 7 ColNo = 23 Msg = 'Syntax error, insert ";" to complete LocalVariableDeclarationStatement'
+20 Jan 2019 13:52:14 GMT: diagnostics = javax.tools.DiagnosticCollector@75f059
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ac9252
+fileObjects = [E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java, E:\java code\LAB-11,ZINIA NAWRIN SUKHI,ID-18301193\Task5.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java]
+20 Jan 2019 13:52:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15db4a3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193;E:\java code\LAB-11,ZINIA NAWRIN SUKHI,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jan 2019 13:52:14 GMT: Compiler call returned
+20 Jan 2019 13:52:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13437c6
+20 Jan 2019 13:52:14 GMT:  Kind = ERROR
+20 Jan 2019 13:52:14 GMT: Name = E:\java code\LAB-11,ZINIA NAWRIN SUKHI,ID-18301193\Task5.java LineNo = 3 ColNo = 14 Msg = 'The type Task5 is already defined'
+20 Jan 2019 13:52:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d07123
+20 Jan 2019 13:52:14 GMT:  Kind = WARNING
+20 Jan 2019 13:52:14 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:52:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@181610c
+20 Jan 2019 13:52:14 GMT:  Kind = WARNING
+20 Jan 2019 13:52:14 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:52:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11083e1
+20 Jan 2019 13:52:14 GMT:  Kind = ERROR
+20 Jan 2019 13:52:14 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 7 ColNo = 23 Msg = 'Syntax error, insert "ArrayInitializer" to complete ArrayCreationWithArrayInitializer'
+20 Jan 2019 13:52:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1801b02
+20 Jan 2019 13:52:14 GMT:  Kind = ERROR
+20 Jan 2019 13:52:14 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 7 ColNo = 23 Msg = 'Syntax error, insert ";" to complete LocalVariableDeclarationStatement'
+20 Jan 2019 13:53:22 GMT: diagnostics = javax.tools.DiagnosticCollector@1640c7c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@91d49f
+fileObjects = [E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java, E:\java code\LAB-11,ZINIA NAWRIN SUKHI,ID-18301193\Task5.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java]
+20 Jan 2019 13:53:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@222e8a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193;E:\java code\LAB-11,ZINIA NAWRIN SUKHI,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jan 2019 13:53:22 GMT: Compiler call returned
+20 Jan 2019 13:53:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15ceff8
+20 Jan 2019 13:53:22 GMT:  Kind = ERROR
+20 Jan 2019 13:53:22 GMT: Name = E:\java code\LAB-11,ZINIA NAWRIN SUKHI,ID-18301193\Task5.java LineNo = 3 ColNo = 14 Msg = 'The type Task5 is already defined'
+20 Jan 2019 13:53:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11d4f58
+20 Jan 2019 13:53:22 GMT:  Kind = WARNING
+20 Jan 2019 13:53:22 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:53:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1465238
+20 Jan 2019 13:53:22 GMT:  Kind = WARNING
+20 Jan 2019 13:53:22 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:53:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@106f0b
+20 Jan 2019 13:53:22 GMT:  Kind = WARNING
+20 Jan 2019 13:53:22 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:53:38 GMT: diagnostics = javax.tools.DiagnosticCollector@89b8a2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1634be8
+fileObjects = [E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java]
+20 Jan 2019 13:53:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b4cd1d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jan 2019 13:53:38 GMT: Compiler call returned
+20 Jan 2019 13:53:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e4fa1
+20 Jan 2019 13:53:38 GMT:  Kind = WARNING
+20 Jan 2019 13:53:38 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:53:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@116531d
+20 Jan 2019 13:53:38 GMT:  Kind = WARNING
+20 Jan 2019 13:53:38 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:53:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51d9de
+20 Jan 2019 13:53:38 GMT:  Kind = WARNING
+20 Jan 2019 13:53:38 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:55:00 GMT: diagnostics = javax.tools.DiagnosticCollector@159d0c4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14d3184
+fileObjects = [E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java]
+20 Jan 2019 13:55:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b37a30' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jan 2019 13:55:00 GMT: Compiler call returned
+20 Jan 2019 13:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@177d5fd
+20 Jan 2019 13:55:00 GMT:  Kind = WARNING
+20 Jan 2019 13:55:00 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@493bee
+20 Jan 2019 13:55:00 GMT:  Kind = WARNING
+20 Jan 2019 13:55:00 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:55:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@107a669
+20 Jan 2019 13:55:00 GMT:  Kind = WARNING
+20 Jan 2019 13:55:00 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:55:53 GMT: diagnostics = javax.tools.DiagnosticCollector@4c7146
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11d4dcf
+fileObjects = [E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java]
+20 Jan 2019 13:55:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e31959' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jan 2019 13:55:54 GMT: Compiler call returned
+20 Jan 2019 13:55:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ae06b
+20 Jan 2019 13:55:54 GMT:  Kind = WARNING
+20 Jan 2019 13:55:54 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\T1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:55:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24ea7b
+20 Jan 2019 13:55:54 GMT:  Kind = WARNING
+20 Jan 2019 13:55:54 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task5.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jan 2019 13:55:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@144584a
+20 Jan 2019 13:55:54 GMT:  Kind = WARNING
+20 Jan 2019 13:55:54 GMT: Name = E:\cse111\LAB-3,ZINIA NAWRIN,ID-18301193\Task2.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+31 Jan 2019 0:46:43 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 0:46:43 GMT with name E:\cse111\lab code\LAB-2(i),ZINIA NAWRIN,ID-18301193\EclipseCompiler.txt
+31 Jan 2019 0:47:07 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 0:47:07 GMT with name E:\cse111\lab code\LAB-2(i),ZINIA NAWRIN,ID-18301193\EclipseCompiler.txt
+31 Jan 2019 0:47:25 GMT: Log 'EclipseCompiler.txt' opened: 31 Jan 2019 0:47:25 GMT with name E:\cse111\lab code\LAB-2(i),ZINIA NAWRIN,ID-18301193\EclipseCompiler.txt
